@@ -1,6 +1,0 @@
-<application>
-  <component name="DiscordBeamSettings">
-    <option name="dontAskForService" value="true" />
-    <option name="shareService" value="GITHUB_GIST" />
-  </component>
-</application>

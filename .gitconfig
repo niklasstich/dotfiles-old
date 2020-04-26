@@ -5,4 +5,4 @@
 [commit]
 	gpgsign = true
 [gpg]
-	program = /home/cluuuuub/gpg-no-tty.sh
+	program = /usr/bin/gpg
