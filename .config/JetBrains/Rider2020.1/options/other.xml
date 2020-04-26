@@ -1,0 +1,41 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Fira Code" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="reformat&#10;refac&#10;refactor&#10;rename" />
+    <property name="MarketplacePluginsSearchHistory" value="discor&#10;discors&#10;/tag:Keymap" />
+    <property name="Non.Modal.Commit.Single.Click2" value="true" />
+    <property name="Non.Modal.Commit4" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
+    <property name="SettingsSearchHistory" value="typo&#10;wrap guide&#10;right margin&#10;discord&#10;spelling" />
+    <property name="Tutorials.1" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-201.6668.197-bd28cd31efb0ceea1822e750ab09927d89c2f42ceb8177e31ad031e0bf6cc436" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="debugger.smart.chooser.counter" value="1" />
+    <property name="evlsprt3.201" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/DEV/Projekt/media-streaming-server/media-streaming-server.sln&#10;/media/cluuuuub/Code/DEV/Projekt/media-streaming-server&#10;/home/cluuuuub/Code/DEV/Projekt/grabupnp&#10;/home/cluuuuub/Code/DEV/Projekt/media-streaming-server&#10;/user/cluuuuub/Code&#10;/media/cluuuuub/Code/DEV/Projekt" />
+    <property name="file.gist.reindex.count" value="8" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_file_path" value="$USER_HOME$/Code/DEV/Projekt/media-streaming-server" />
+    <property name="last_open_solution_path" value="$USER_HOME$/Code/DEV/Projekt/media-streaming-server" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Code/DEV/Projekt/media-streaming-server/media-streaming-server.sln" />
+    <property name="last_selected_template" value="Unit Test Project|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=netcoreapp3.1;Type=NUnit;Language=C#;Auth=None;Framework=netcoreapp3.1;" />
+    <property name="selected.color.option.type" value="TYPO" />
+    <property name="settings.code.style.selected.tab.EditorConfig" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JSON" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.yaml" value="Wrapping and Braces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+  </component>
+</application>

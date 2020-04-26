@@ -1,0 +1,8 @@
+[user]
+	name = Niklas Stich
+	email = 32730297+niklasstich@users.noreply.github.com
+	signingkey = 9503B5E0330B5015
+[commit]
+	gpgsign = true
+[gpg]
+	program = /home/cluuuuub/gpg-no-tty.sh

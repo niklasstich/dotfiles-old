@@ -1,0 +1,36 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/DEV/Projekt/media-streaming-server/media-streaming-server.sln">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1axaAnX8Bp6f94HkXw7CL04pssS">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-201.6668.197" />
+              <option name="buildTimestamp" value="1586916108687" />
+              <frame x="2609" y="27" width="1717" height="968" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1587843475774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="groups">
+      <list>
+        <ProjectGroup>
+          <option name="expanded" value="true" />
+          <option name="name" value="Tutorials" />
+          <option name="projectPaths" value="Catch exceptions, use conditional breakpoints, and more:Learn how to run your apps in Rider:Use the editor efficiently with shortcuts, code completion, live templates...:Set breakpoints, step through code, and more:Add unit tests to your projects, run them, and analyze results:Do almost any VCS operation right in the IDE:Be more productive with Rider typing assists" />
+          <option name="tutorials" value="true" />
+        </ProjectGroup>
+      </list>
+    </option>
+    <option name="lastProjectLocation" value="/media/cluuuuub/Code/DEV/Projekt/media-streaming-server" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/DEV/Projekt/media-streaming-server/media-streaming-server.sln" />
+      </list>
+    </option>
+  </component>
+</application>

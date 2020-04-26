@@ -1,0 +1,27 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="appcds.runOnSecondStart" value="PY-201.6668.115-dfb83580ff6b35f8f0407e5f38a8f20c92019dcbb6b16e0dd43898d33cd213c0" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt3.201" value="11" />
+    <property name="file.chooser.recent.files" value="/media/cluuuuub/Code/DEV/Projekt/upnpclient_python/client.py&#10;/media/cluuuuub/Code/DEV/Projekt/upnpclient_python" />
+    <property name="file.gist.reindex.count" value="3794" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="lastSeenTip" value="neue-OptimizeImports-py.html" />
+    <property name="lastTimeTipsWereShown" value="1587336269150" />
+    <property name="last_opened_file_path" value="/media/cluuuuub/Code/DEV/Projekt/upnpclient_python" />
+    <property name="seenTips" value="neue-OptimizeImports-py.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+</application>

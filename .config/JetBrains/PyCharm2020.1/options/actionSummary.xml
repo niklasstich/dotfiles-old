@@ -1,0 +1,24 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="Run">
+        <ActionSummary times="2" last="1587336409622" />
+      </entry>
+      <entry key="WelcomeScreen.OpenDirectoryProject">
+        <ActionSummary times="1" last="1587336251385" />
+      </entry>
+      <entry key="com.intellij.execution.console.ConsoleExecuteAction">
+        <ActionSummary times="1" last="1587336457009" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$6">
+        <ActionSummary times="2" last="1587336243639" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="2" last="1587336298982" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="2" last="1587336422033" />
+      </entry>
+    </data>
+  </component>
+</application>
