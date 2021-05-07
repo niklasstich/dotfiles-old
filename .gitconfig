@@ -1,8 +1,8 @@
 [user]
 	name = Niklas Stich
 	email = 32730297+niklasstich@users.noreply.github.com
-	signingkey = 9503B5E0330B5015
-[commit]
-	gpgsign = true
-[gpg]
-	program = /usr/bin/gpg
+	signingkey = 693FD9865229DCA4
+[pull]
+	rebase = false
+[init]
+	defaultBranch = master
